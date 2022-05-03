@@ -11,7 +11,7 @@
   <img align="right" alt="Anne-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="Anne-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="right" alt="Anne-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="left" alt="caricaturaanne.png" height="150" style="border-radius:500px;!important" margin-top="100px"         src="https://github.com/AnneCBSx/AnneCBSX/blob/main/annecaricatura.png">
+  <img align="left" alt="caricaturaanne.png" height="150"   style="border-radius:100";    src="https://github.com/AnneCBSx/AnneCBSX/blob/main/annecaricatura.png">
 </div>
   
  <div>
@@ -29,11 +29,13 @@
  
  
  
-<div align="center">
+<div align="left">
   <a href="https://github.com/AnneCBSx">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=AnneCBSx&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
-  <img width="45%" height= "100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnneCBSx&layout=compact&langs_count=7&theme=midnight-purple">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AnneCBSx&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
+  <img width="150cm" height= "100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnneCBSx&layout=compact&langs_count=7&theme=midnight-purple">
  
+    
+    
 </div>
 <div align="center">
   
