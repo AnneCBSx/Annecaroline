@@ -32,7 +32,7 @@
 <div align="left">
   <a href="https://github.com/AnneCBSx">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AnneCBSx&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
-  <img width="150cm" height= "100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnneCBSx&layout=compact&langs_count=7&theme=midnight-purple">
+  <img width="350cm" height= "100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnneCBSx&layout=compact&langs_count=7&theme=midnight-purple">
  
     
     
