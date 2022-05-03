@@ -30,7 +30,7 @@
   <img height="130em" margin-bottom="1000px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnneCBSx&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
  </div>
- ![Snake animation](https://github.com/AnneCBSx/AnneCBSX/blob/main/.github/workflows/cobrinha.yml)
+ ![Snake animation](https://github.com/AnneCBSx/AnneCBSX/blob/main/.github/workflows/cobrinha.svg)
  
 
   
