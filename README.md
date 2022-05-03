@@ -1,6 +1,6 @@
 
   <h1 align="center">Olá, eu sou a Anne Caroline 😊</h1>
-  <p align="center">Estudo Desenvolvimento Web na StartSe Tech academy e Desenvolvimento .Net na Womakers Code>
+  <p align="center">Estudo Desenvolvimento Web na StartSe Tech academy e Desenvolvimento .Net na Womakers Code
 
 
  
