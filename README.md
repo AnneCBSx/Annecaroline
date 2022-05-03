@@ -1,4 +1,4 @@
- #  **Olá, eu sou a Anne Caroline 😊**
+ **Olá, eu sou a Anne Caroline 😊**
  # Sou desenvolvedora web Jr 
  
 <div align="center">
@@ -11,5 +11,20 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="right" alt="Anne pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Anne pic" height="150" style="border-radius:50px;" src="">
 </div>
+ 
+ 
+ 
+ 
+ 
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
+
+
+<p align="center">
+<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+<a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
+<a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
+</p>
