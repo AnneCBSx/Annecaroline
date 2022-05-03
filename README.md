@@ -35,7 +35,11 @@
   <img height="90em"  height= "100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnneCBSx&layout=compact&langs_count=7&theme=midnight-purple">
  
 </div>
-
+<div align="center">
+  
+  ![Snake animation](https://github.com/AnneCBSx/AnneCBSx/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
  
  
 
