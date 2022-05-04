@@ -11,7 +11,7 @@
   <img align="right" alt="Anne-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="Anne-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="right" alt="Anne-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="left" alt="caricaturaanne.png" height="150"   style="border-radius:100";    src="https://github.com/AnneCBSx/AnneCBSX/blob/main/annecaricatura.png">
+  <img align="left" alt="caricaturaanne.png" height="130"   style="border-radius:100";    src="https://github.com/AnneCBSx/AnneCBSX/blob/main/annecaricatura.png">
 </div>
   
  <div>
