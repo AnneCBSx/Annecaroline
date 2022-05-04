@@ -30,10 +30,12 @@
  
  
  
-<div align="center>
+<div align="center">
   <a href="https://github.com/AnneCBSx">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=AnneCBSx&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
-  <img width="280cm" height= "100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnneCBSx&layout=compact&langs_count=7&theme=midnight-purple">
+  <img widht="38%"  height="190em" src="https://github-readme-stats.vercel.app/api?username=AnneCBSx&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
+  
+  <div align="center">
+  <img width="58%" height= "180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnneCBSx&layout=compact&langs_count=7&theme=midnight-purple"> </div>
  
     
     
