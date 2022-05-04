@@ -34,7 +34,7 @@
   <a href="https://github.com/AnneCBSx">
   <img widht="38%"  height="175em" src="https://github-readme-stats.vercel.app/api?username=AnneCBSx&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
   
-  <div align="center">
+  <div align="right">
   <img width="58%" height= "160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnneCBSx&layout=compact&langs_count=7&theme=midnight-purple"> </div>
  
     
