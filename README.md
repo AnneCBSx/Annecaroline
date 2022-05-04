@@ -11,7 +11,10 @@
   <img align="right" alt="Anne-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="Anne-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="right" alt="Anne-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
-  <img align="left" alt="caricaturaanne.png" height="130"   style="border-radius:100";    src="https://github.com/AnneCBSx/AnneCBSX/blob/main/annecaricatura.png">
+ 
+   <div >
+   <img align="left" alt="caricaturaanne.png" height="130"  ;    src="https://github.com/AnneCBSx/AnneCBSX/blob/main/annecaricatura.png">
+     </div>
 </div>
   
  <div>
@@ -34,7 +37,7 @@
   <a href="https://github.com/AnneCBSx">
   <img widht="38%"  height="175em" src="https://github-readme-stats.vercel.app/api?username=AnneCBSx&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
   
-  <div align="right">
+  <div align="center">
   <img width="58%" height= "160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnneCBSx&layout=compact&langs_count=7&theme=midnight-purple"> </div>
  
     
