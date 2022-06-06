@@ -1,8 +1,9 @@
 
-  <h1 align="center">Olá, eu sou a Anne Caroline 😊</h1>
+
+ <h1 align="center">Olá, eu sou a Anne Caroline 😊</h1>
   <p align="center">Estudo Desenvolvimento Web na StartSe Tech academy e Desenvolvimento .Net na Womakers Code
-  
-  <div style="allign=center">😊 Todos os meus projetos estão disponiveis em <a href= https://github.com/AnneCBSx?tab=repositories>✅ Repositórios GitHub </a>
+  </div>
+  <div>😊 Todos os meus projetos estão disponiveis em <a href= https://github.com/AnneCBSx?tab=repositories>✅ Repositórios GitHub </a>
     </div>
 
 <br></br>
