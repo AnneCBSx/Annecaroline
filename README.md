@@ -1,7 +1,7 @@
 
 
  <h1 align="center">Olá, eu sou a Anne Caroline 😊</h1>
-  <p align="center"> Fullstack developer
+  <p align="center"> Fullstack developer newbie
   </div>
   <div>😊 Todos os meus projetos estão disponiveis em <a href= https://github.com/AnneCBSx?tab=repositories>✅ Repositórios GitHub </a>
     </div>
