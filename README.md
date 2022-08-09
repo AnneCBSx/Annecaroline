@@ -1,10 +1,18 @@
 
-
+<div>
  <h1 align="center">Olá, eu sou a Anne Caroline 😊</h1>
- <p>Hello, I'm Anne Caroline and I'm a student in traning Fullstack developer  <p>
-  <p align="center"> Estudante Fullstack developer em treinamento <p>
-  </div>
-  <div>😊 Todos os meus projetos estão disponiveis em <a href= https://github.com/AnneCBSx?tab=repositories>✅ Repositórios GitHub </a>
+   <p align="center"> Estudante Fullstack developer em treinamento <p>
+ </div>
+   
+  <div  align="center">😊 Todos os meus projetos estão disponiveis em <a href= https://github.com/AnneCBSx?tab=repositories>✅ Repositórios GitHub </a>
+    </div>
+ 
+    
+<br></br>
+ 
+ <p>😊Hello, I'm Anne Caroline and I'm a student in traning Fullstack developer  <p>
+  
+  <div>😊 All my projects can be found here <a href= https://github.com/AnneCBSx?tab=repositories>✅ Repositórios GitHub </a>
     </div>
 
 <br></br>
