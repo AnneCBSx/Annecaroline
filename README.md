@@ -1,7 +1,8 @@
 
 
  <h1 align="center">Olá, eu sou a Anne Caroline 😊</h1>
-  <p align="center"> Fullstack developer newbie
+ <p>Hello, I'm Anne Caroline and I'm a student in traning Fullstack developer  <p>
+  <p align="center"> Estudante Fullstack developer em treinamento <p>
   </div>
   <div>😊 Todos os meus projetos estão disponiveis em <a href= https://github.com/AnneCBSx?tab=repositories>✅ Repositórios GitHub </a>
     </div>
