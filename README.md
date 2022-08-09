@@ -10,7 +10,7 @@
     
 <br></br>
  
- <p>😊Hello, I'm Anne Caroline and I'm a student in traning Fullstack developer  <p>
+ <p>😊Hello, I'm Anne Caroline and I'm a Fullstack developer student in traning  <p>
   
   <div>😊 All my projects can be found here <a href= https://github.com/AnneCBSx?tab=repositories>✅ Repositórios GitHub </a>
     </div>
