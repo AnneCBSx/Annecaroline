@@ -62,6 +62,26 @@
 </div>
  
  
+✅Skills Técnicas:
+ Git
+ GitHub
+ HTML5
+ CSS3
+ Photoshop
+ Corel Draw
+ Figma
+ 
+ <hr><hr>
+ JavaScript (🧠 )
+ Angular(🧠 )
+ SQL (🧠 )
+ PHP (🧠 )
+ C# (🧠 )
+ .NET (🧠 )
+(🧠:Aprendendo atualmente)
+
+😊 Soft skills:
+ 
 
   
 
