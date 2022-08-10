@@ -63,26 +63,28 @@
  
  
 ✅Skills Técnicas:
- Git
- GitHub
- HTML5
- CSS3
- Photoshop
- Corel Draw
- Figma
+ - [x]Git
+ - [x]GitHub
+ - [x]HTML5
+ - [x]CSS3
+ - [x]Photoshop
+ - [x]Corel Draw
+ - [x]Figma
  
  <hr><hr>
- JavaScript (🧠 )
- Angular(🧠 )
- SQL (🧠 )
- PHP (🧠 )
- C# (🧠 )
- .NET (🧠 )
-(🧠:Aprendendo atualmente)
-
-😊 Soft skills:
+- [ ] JavaScript (🧠 )
+- [ ] Angular(🧠 )
+- [ ] SQL (🧠 )
+- [ ] PHP (🧠 )
+- [ ]C# (🧠 )
+- [ ] .NET (🧠 )
+-(🧠:Aprendendo atualmente)
+<hr></hr>
+- 😊 Soft skills:
  
-
+- [x]
+- [x] 
+- [x]
   
 
  
