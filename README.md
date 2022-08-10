@@ -72,19 +72,21 @@
  - [x]Figma
  
  <hr><hr>
-- [ ] JavaScript (🧠 )
-- [ ] Angular(🧠 )
-- [ ] SQL (🧠 )
-- [ ] PHP (🧠 )
-- [ ]C# (🧠 )
-- [ ] .NET (🧠 )
--(🧠:Aprendendo atualmente)
-<hr></hr>
-- 😊 Soft skills:
+(🧠:Aprendendo atualmente)
  
-- [x]
-- [x] 
-- [x]
+-  JavaScript (🧠 )
+-  Angular(🧠 )
+-  SQL (🧠 )
+-  Cybersecuity (🧠 )
+-  C# (🧠 )
+- .NET (🧠 )
+ 
+<hr></hr>
+😊 Soft skills:
+ 
+- 
+- 
+- 
   
 
  
