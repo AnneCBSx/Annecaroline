@@ -84,9 +84,12 @@
 <hr></hr>
 😊 Soft skills:
  
-- 
-- 
-- 
+ - Motivada   
+ - Proativa 
+ - Liderança
+ - Assertividade
+ - Inteligência emocional
+
   
 
  
