@@ -15,10 +15,10 @@
 </div>
  </div>
  <div>
-  <p align="center">🖥Fullstack developer em treinamento
-  <p>🖥Hello, I'm Anne Caroline and I'm a Fullstack developer student in training <p align="center"><p>
- <a align="center">😊 Todos os meus projetos estão disponiveis em <a href= https://github.com/AnneCBSx?tab=repositories>✅ Repositórios GitHub 
-  </a><p>😊 All my projects can be found here <a href= https://github.com/AnneCBSx?tab=repositories>✅ Repositórios </a></p>
+  <p align="left">🖥Fullstack developer em treinamento
+  <p>🖥Hello,I'm Anne Caroline and I'm a Fullstack developer student in training <p align="center"><p>
+ <a>😊 Todos os meus projetos estão disponiveis em <a href= https://github.com/AnneCBSx?tab=repositories>✅ Repositórios GitHub 
+  </a><p>😊All my projects can be found here <a href= https://github.com/AnneCBSx?tab=repositories>✅ Repositórios </a></p>
   <p align="center">🤝Eu estou aberta em colaborar em projetos Open source e projetos pagos<p align="left"></p>
   <p align="center">🤝I'm open to collaborating on Open source project and paid projects<p align="left"></p>
  </div>
