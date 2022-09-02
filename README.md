@@ -1,7 +1,7 @@
 
 <div>
  <h1 align="center">Olá, eu sou a Anne Caroline 😊</h1>
-   <img align="left" alt="caricaturaanne.png" height="130"  ;    src="https://github.com/AnneCBSx/AnneCBSX/blob/main/annecaricatura.png">
+   <img align="left" alt="caricaturaanne.png" height="130";    src="https://github.com/AnneCBSx/AnneCBSX/blob/main/annecaricatura.png">
      </div>
  <div>
   <p align="left">🖥Fullstack developer em treinamento
@@ -12,12 +12,8 @@
     </p>
   🤝 Eu estou aberta em colaborar em projetos Open source e projetos pagos<p align="left">
   🤝  I'm open to collaborating on Open source project and paid projects<p align="left">
-    </div>
- 
-       
-</div>
-
-   <div>
+  
+   <div align="right">
  <h2 align="center">📨Contato</h2>
  <p align="center">
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/anne-caroline-37a277147/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
@@ -29,17 +25,24 @@
          
 </div>
  </div>
+    </div>
+ 
+       
+</div>
+
 
   <h2 align="center">📕Linguagens</h2>
   
- <div style="display: inline_block">
+ <div>
+ 
+ 
  <p align="center">
+     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#"/>
+   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   <img align="right" alt="Anne-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="Anne-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="right" alt="Anne-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-                                <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"></a>
                                 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
                                 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
                                 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
@@ -47,28 +50,29 @@
                                 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
                                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
                                 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+                               
+                          
  </p>
  
  
  <br></br>
  <hr>
  
- <div>
 
  <div>
+  <p align="row">
 ✅Skills Técnicas:
- - [x]Git
- - [x]GitHub
- - [x]HTML5
- - [x]CSS3
- - [x]Photoshop
- - [x]Corel Draw
- - [x]Figma
-  
- </div>
+ [x]Git
+ [x]GitHub
+ [x]HTML5
+ [x]CSS3
+ [x]Photoshop
+ [x]Corel Draw
+  [x]Figma
+  </p>
  
  
- <div align="center">
+ <p align="center">
  
 (🧠:Aprendendo atualmente)
  
@@ -79,25 +83,24 @@
 -  C# (🧠 )
 - .NET (🧠 )
   
- </div>
+ </p>
  
- <div align="right">
 😊 Soft skills:
  
+ <p>
  - Motivada   
  - Proativa 
  - Liderança
  - Assertividade
  - Inteligência emocional
-  
- </div>
+ </p>
 
  </div>
   
  <br></br>
  
-<div align="center">
- <p align="left">
+<div>
+ <p align="stretch">
   <a href="https://github.com/AnneCBSx">
   <img widht="28%"  height="175em" src="https://github-readme-stats.vercel.app/api?username=AnneCBSx&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"><p>
    <p aligna="right">
