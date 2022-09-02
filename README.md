@@ -1,7 +1,7 @@
 
 <div>
  <h1 align="center">Olá, eu sou a Anne Caroline 😊</h1>
-   <img align="left" alt="caricaturaanne.png" height="130";    src="https://github.com/AnneCBSx/AnneCBSX/blob/main/annecaricatura.png">
+   <img align="left" alt="caricaturaanne.png" height="200";    src="https://github.com/AnneCBSx/AnneCBSX/blob/main/annecaricatura.png">
      </div>
       <div align="right">
  <p align="right">
@@ -15,14 +15,12 @@
 </div>
  </div>
  <div>
-  <p align="">🖥Fullstack developer em treinamento
+  <p align="center">🖥Fullstack developer em treinamento
   <p>🖥Hello, I'm Anne Caroline and I'm a Fullstack developer student in training <p align="center"><p>
- <a align="left">😊 Todos os meus projetos estão disponiveis em <a href= https://github.com/AnneCBSx?tab=repositories>✅ Repositórios GitHub 
-  </a>
-   <p>😊 All my projects can be found here <a href= https://github.com/AnneCBSx?tab=repositories>✅ Repositórios </a>
-    </p>
-  🤝 Eu estou aberta em colaborar em projetos Open source e projetos pagos<p align="left">
-  🤝  I'm open to collaborating on Open source project and paid projects<p align="left">
+ <a align="center">😊 Todos os meus projetos estão disponiveis em <a href= https://github.com/AnneCBSx?tab=repositories>✅ Repositórios GitHub 
+  </a><p>😊 All my projects can be found here <a href= https://github.com/AnneCBSx?tab=repositories>✅ Repositórios </a></p>
+  <p align="center">🤝Eu estou aberta em colaborar em projetos Open source e projetos pagos<p align="left"></p>
+  <p align="center">🤝I'm open to collaborating on Open source project and paid projects<p align="left"></p>
  </div>
  
        
@@ -63,7 +61,7 @@
  <p>✅Corel Draw </p>
 <p>✅Figma</p>
     
- <h2 style="display:flex; justify-content:row;">😊 Soft skills:</h2>
+ <h2 style="display:flex" justify-content:"row";>😊 Soft skills:</h2>
  <p> ✨ Motivada   </p>
   <p>  ✨Proativa </p>
   <p> ✨Liderança</p>
