@@ -1,41 +1,38 @@
 
 <div>
  <h1 align="center">Olá, eu sou a Anne Caroline 😊</h1>
-  <div>
    <img align="left" alt="caricaturaanne.png" height="130"  ;    src="https://github.com/AnneCBSx/AnneCBSX/blob/main/annecaricatura.png">
      </div>
-  <p align="center">🖥Estudante Fullstack developer em treinamento<p>
- <div align="center">😊 Todos os meus projetos estão disponiveis em <a href= https://github.com/AnneCBSx?tab=repositories>✅ Repositórios GitHub </a>
+ <div>
+  <p align="left">🖥Fullstack developer em treinamento
+  <p>🖥Hello, I'm Anne Caroline and I'm a Fullstack developer student in training <p align="center"><p>
+ <div align="left">😊 Todos os meus projetos estão disponiveis em <a href= https://github.com/AnneCBSx?tab=repositories>✅ Repositórios GitHub 
+  </a>
+   <p>😊 All my projects can be found here <a href= https://github.com/AnneCBSx?tab=repositories>✅ Repositórios </a>
+    </p>
+  🤝 Eu estou aberta em colaborar em projetos Open source e projetos pagos<p align="left">
+  🤝  I'm open to collaborating on Open source project and paid projects<p align="left">
     </div>
  
-    
-  <div align="right">
- <h2>Contato</h2>
- <p align="left"> <a href="https://www.behance.com/anneborges2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/AnneCBSx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/anne-caroline-37a277147/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-     <a href="https://grupo-womakerscode.slack.com/archives/C03F8LGLM9C" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a> 
+       
+</div>
+
+   <div>
+ <h2 align="center">📨Contato</h2>
+ <p align="center">
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/anne-caroline-37a277147/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+    <a href="https://grupo-womakerscode.slack.com/archives/C03F8LGLM9C" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a> 
       <a href="https://codepen.io/Annecbsx" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>  
-  
-<a href="https://www.linkedin.com/in/anne-caroline-37a277147/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/anne-caroline-37a277147/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.behance.net/anneborges2" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
-     </div>
+    </p>
+     
+    
 </div>
-  
+ </div>
 
-      
-<div> 
- <p>😊Hello, I'm Anne Caroline and I'm a Fullstack developer student in training <p align="center">
-  
-  <div>😊 All my projects can be found here <a href= https://github.com/AnneCBSx?tab=repositories>✅ Repositórios </a>
-    </div>
-
-
- 🤝  I'm open to collaborating on Open source project<p align="left">
-
-         
-</div>
-
- 
- 
+  <h2align="center">Linguagens</h2>
+  <p align="center">
  <div style="display: inline_block"><br>
   <img align="right" alt="Anne-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="Anne-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
