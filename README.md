@@ -9,7 +9,9 @@
      </div>
 </div>
   
- <div>
+ <div align="right">
+ <h2>Contato</h2>
+ <p align="left"> <a href="https://www.behance.com/anneborges2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/AnneCBSx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/anne-caroline-37a277147/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
      <a href="https://grupo-womakerscode.slack.com/archives/C03F8LGLM9C" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a> 
       <a href="https://codepen.io/Annecbsx" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>  
   
@@ -17,8 +19,10 @@
  <a href="https://www.behance.net/anneborges2" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
      
  
-  
-   
+      
+</div>
+      
+<div> 
  <p>😊Hello, I'm Anne Caroline and I'm a Fullstack developer student in training <p align="center">
   
   <div>😊 All my projects can be found here <a href= https://github.com/AnneCBSx?tab=repositories>✅ Repositórios </a>
@@ -27,7 +31,9 @@
 
  🤝  I'm open to collaborating on Open source project<p align="left">
 
- 
+         
+</div>
+
  
  
  <div style="display: inline_block"><br>
@@ -59,8 +65,7 @@
   <img width="58%" height= "160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnneCBSx&layout=compact&langs_count=7&theme=midnight-purple"> </div>
 
   
-    
-</div>
+
 <div align="center">
   
   ![Snake animation](https://github.com/AnneCBSx/AnneCBSx/blob/output/github-contribution-grid-snake.svg)
