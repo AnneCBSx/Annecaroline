@@ -31,7 +31,7 @@
 </div>
  </div>
 
-  <h2align="center">Linguagens</h2>
+  <h2 align="center">Linguagens</h2>
   <p align="center">
  <div style="display: inline_block"><br>
   <img align="right" alt="Anne-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
