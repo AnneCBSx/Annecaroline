@@ -3,19 +3,8 @@
  <h1 align="center">Olá, eu sou a Anne Caroline 😊</h1>
    <img align="left" alt="caricaturaanne.png" height="130";    src="https://github.com/AnneCBSx/AnneCBSX/blob/main/annecaricatura.png">
      </div>
- <div>
-  <p align="left">🖥Fullstack developer em treinamento
-  <p>🖥Hello, I'm Anne Caroline and I'm a Fullstack developer student in training <p align="center"><p>
- <div align="left">😊 Todos os meus projetos estão disponiveis em <a href= https://github.com/AnneCBSx?tab=repositories>✅ Repositórios GitHub 
-  </a>
-   <p>😊 All my projects can be found here <a href= https://github.com/AnneCBSx?tab=repositories>✅ Repositórios </a>
-    </p>
-  🤝 Eu estou aberta em colaborar em projetos Open source e projetos pagos<p align="left">
-  🤝  I'm open to collaborating on Open source project and paid projects<p align="left">
-  
-   <div align="right">
- <h2 align="center">📨Contato</h2>
- <p align="center">
+      <div align="right">
+ <p align="right">
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/anne-caroline-37a277147/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
     <a href="https://grupo-womakerscode.slack.com/archives/C03F8LGLM9C" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a> 
       <a href="https://codepen.io/Annecbsx" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>  
@@ -25,11 +14,20 @@
          
 </div>
  </div>
-    </div>
+ <div>
+  <p align="">🖥Fullstack developer em treinamento
+  <p>🖥Hello, I'm Anne Caroline and I'm a Fullstack developer student in training <p align="center"><p>
+ <a align="left">😊 Todos os meus projetos estão disponiveis em <a href= https://github.com/AnneCBSx?tab=repositories>✅ Repositórios GitHub 
+  </a>
+   <p>😊 All my projects can be found here <a href= https://github.com/AnneCBSx?tab=repositories>✅ Repositórios </a>
+    </p>
+  🤝 Eu estou aberta em colaborar em projetos Open source e projetos pagos<p align="left">
+  🤝  I'm open to collaborating on Open source project and paid projects<p align="left">
+ </div>
  
        
 </div>
-
+<hr>
 
   <h2 align="center">📕Linguagens</h2>
   
@@ -42,7 +40,7 @@
   <img align="right" alt="Anne-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="Anne-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="right" alt="Anne-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
                                 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
                                 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
                                 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
@@ -53,62 +51,53 @@
                                
                           
  </p>
+  <hr>
  
+   <div>
+  <h2 align="center">📌Skills Técnicas</h2> 
+<p> ✅Git </p>
+<p> ✅GitHub </p>
+ <p>✅HTML5 </p>
+ <p>✅CSS3</p> 
+<p> ✅Photoshop</p>
+ <p>✅Corel Draw </p>
+<p>✅Figma</p>
+    
+ <h2 style="display:flex; justify-content:row;">😊 Soft skills:</h2>
+ <p> ✨ Motivada   </p>
+  <p>  ✨Proativa </p>
+  <p> ✨Liderança</p>
+  <p> ✨Assertividade</p>
+  <p> ✨Inteligência emocional</p>
  
- <br></br>
+  </div>
+ 
  <hr>
  
 
  <div>
-  <p align="row">
-✅Skills Técnicas:
- [x]Git
- [x]GitHub
- [x]HTML5
- [x]CSS3
- [x]Photoshop
- [x]Corel Draw
-  [x]Figma
-  </p>
- 
  
  <p align="center">
+  <h2 align="center">📌Aprendendo atualmente🧠</h2> 
  
-(🧠:Aprendendo atualmente)
  
--  JavaScript (🧠 )
--  Angular(🧠 )
--  SQL (🧠 )
--  Cybersecuity (🧠 )
--  C# (🧠 )
-- .NET (🧠 )
+ <p> 🧠JavaScript </p>
+<p> 🧠Angular</p>
+<p> 🧠SQL</p>
+<p> 🧠Cybersecurity</p>  
+<p> 🧠C# </p>
+<p> 🧠NET </p>
   
  </p>
+ <hr>
  
-😊 Soft skills:
+<div align="center">
  
- <p>
- - Motivada   
- - Proativa 
- - Liderança
- - Assertividade
- - Inteligência emocional
- </p>
-
- </div>
-  
- <br></br>
- 
-<div>
- <p align="stretch">
   <a href="https://github.com/AnneCBSx">
-  <img widht="28%"  height="175em" src="https://github-readme-stats.vercel.app/api?username=AnneCBSx&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"><p>
-   <p aligna="right">
-  <img width="58%" height= "160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnneCBSx&layout=compact&langs_count=7&theme=midnight-purple"> 
-   <p>
+  <img widht="48%"  height="165em" src="https://github-readme-stats.vercel.app/api?username=AnneCBSx&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">   
+  <img width="38%" height= "165cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnneCBSx&layout=compact&langs_count=7&theme=midnight-purple"> 
    </div>
 
-  
 
 <div align="center">
   
