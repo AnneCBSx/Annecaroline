@@ -26,14 +26,14 @@
   <a href="https://www.linkedin.com/in/anne-caroline-37a277147/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.behance.net/anneborges2" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
     </p>
-     
-    
+         
 </div>
  </div>
 
-  <h2 align="center">Linguagens</h2>
-  <p align="center">
- <div style="display: inline_block"><br>
+  <h2 align="center">📕Linguagens</h2>
+  
+ <div style="display: inline_block">
+ <p align="center">
   <img align="right" alt="Anne-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="Anne-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="right" alt="Anne-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
@@ -47,29 +47,15 @@
                                 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
                                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
                                 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-                    </p>
+ </p>
  
  
  <br></br>
+ <hr>
  
- 
- 
-<div align="center">
-  <a href="https://github.com/AnneCBSx">
-  <img widht="38%"  height="175em" src="https://github-readme-stats.vercel.app/api?username=AnneCBSx&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
-   
-  <div align="center">
-  <img width="58%" height= "160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnneCBSx&layout=compact&langs_count=7&theme=midnight-purple"> </div>
+ <div>
 
-  
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/AnneCBSx/AnneCBSx/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
- 
- 
+ <div>
 ✅Skills Técnicas:
  - [x]Git
  - [x]GitHub
@@ -78,8 +64,12 @@
  - [x]Photoshop
  - [x]Corel Draw
  - [x]Figma
+  
+ </div>
  
- <hr><hr>
+ 
+ <div align="center">
+ 
 (🧠:Aprendendo atualmente)
  
 -  JavaScript (🧠 )
@@ -88,8 +78,10 @@
 -  Cybersecuity (🧠 )
 -  C# (🧠 )
 - .NET (🧠 )
+  
+ </div>
  
-<hr></hr>
+ <div align="right">
 😊 Soft skills:
  
  - Motivada   
@@ -97,6 +89,29 @@
  - Liderança
  - Assertividade
  - Inteligência emocional
+  
+ </div>
+
+ </div>
+  
+ <br></br>
+ 
+<div align="center">
+ <p align="left">
+  <a href="https://github.com/AnneCBSx">
+  <img widht="28%"  height="175em" src="https://github-readme-stats.vercel.app/api?username=AnneCBSx&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"><p>
+   <p aligna="right">
+  <img width="58%" height= "160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnneCBSx&layout=compact&langs_count=7&theme=midnight-purple"> 
+   <p>
+   </div>
+
+  
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/AnneCBSx/AnneCBSx/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
   
 
