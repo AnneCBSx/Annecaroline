@@ -1,6 +1,6 @@
 
 <div>
- <h1 align="center">Olá, eu sou a Anne Caroline 😊</h1>
+ <h1 align="center">Olá, eu sou  Anne Caroline 😊</h1>
    <img align="left" alt="caricaturaanne.png" height="200";    src="https://github.com/AnneCBSx/AnneCBSX/blob/main/annecaricatura.png">
      </div>
       <div align="right">
