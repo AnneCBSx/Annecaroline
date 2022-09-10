@@ -64,13 +64,18 @@
  
    <div>
   <h2 align="center">📌Skills Técnicas</h2> 
-<p> ✅Git </p>
-<p> ✅GitHub </p>
+<p> ✅Git e GitHub</p>
+<p> ✅C#</p>
  <p>✅HTML5 </p>
  <p>✅CSS3</p> 
-<p> ✅Photoshop</p>
+ <p>✅JavaScript</p>
+<p>✅SQL</p>
+ <br>
+<p>✅Photoshop</p>
  <p>✅Corel Draw </p>
 <p>✅Figma</p>
+
+<hr>
     
  <h2 style="display:flex" justify-content:"row";>😊 Soft skills:</h2>
  <p> ✨ Motivada   </p>
