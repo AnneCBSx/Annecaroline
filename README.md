@@ -100,7 +100,7 @@
 <p> 🧠SQL</p>
 <p> 🧠Cybersecurity</p>  
 <p> 🧠C# </p>
-<p> 🧠NET </p>
+<p> 🧠 .NET Framework </p>
   
  </p>
  <hr>
